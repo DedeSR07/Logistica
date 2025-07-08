@@ -70,7 +70,7 @@ Simular um sistema de Business Intelligence voltado para o setor de **logística
 
 ## 📷 Screenshot do Dashboard
 
-- 📊[Dashboard de Logística](./Imagens/Dashboard.png)
+- 📊[Dashboard de Logística](./Imagens/Dashboard.jpg)
 
 ---
 
